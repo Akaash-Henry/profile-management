@@ -1,0 +1,1 @@
+This project is used for a simple profile management system which includes a register page and login page and a profile page, I have added ajax into the project for dynamic checking of values and have stored in the mysql database.
